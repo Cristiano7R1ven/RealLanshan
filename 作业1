@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homework1</title>
+    <h1>网站标题</h1>
+    <ul>
+        <li><a href = "https://www.12306.cn/index/" target="_blank">12306</a></li>
+        <li><a href = "https://www.163.com/" target="_blank">网易</a></li>   
+        <li><a href = "https://v.sogou.com/" target="_blank">搜狗影视</a></li>
+        <li><a href = "https://cq.58.com/?utm_source=market&spm=u-2d2yxv86y3v43nkddh1.BDPCPZ_BT" target="_blank">58同城</a></li>
+        <li><a href = "https://tencent.com" target ="_blank">腾讯</a></li>
+    </ul>
+    <br>
+    <h2>文章一级标题</h2><br>
+    <h3>文章二级标题</h3>
+    <p>这是一个段落这是一个段落 <a href = "https://tencent.com"target="_blank">这是一个去往腾讯的链接</a></p>
+    <img src="http://mms1.baidu.com/it/u=3832749479,2337012356&fm=253&app=138&f=JPG&fmt=auto&q=75?w=500&h=500"/>
+    <p>这又是一个段落<a href = "https://tencent.com"target="_blank">这是一个去往腾讯的链接</a></p>
+    <h2>又一篇文章的一级标题</h2>
+    <p>这是一个段落这是一个段落这是一个段落这是一个段落这是一个段落这是一个段落这是一个段落这是一个段落</p>
+    <p>这是一个段落这是一个段落<a href = "https://tencent.com"target="_blank">这是一个去往腾讯的链接</a></p>
+    <br>
+    <img src="http://mms1.baidu.com/it/u=3832749479,2337012356&fm=253&app=138&f=JPG&fmt=auto&q=75?w=500&h=500"/>
+    <p>这又是一个段落</p>
+    <ul>
+        <li>列表展示1</li>
+        <li>列表展示2</li>
+        <li>列表展示3</li>
+    </ul>
+    <h2>图片</h2>
+    <p>This is a bird</p>
+    <img src="http://mms1.baidu.com/it/u=3832749479,2337012356&fm=253&app=138&f=JPG&fmt=auto&q=75?w=500&h=500"/>
+    <h2>最后一篇文章</h2>
+    <h3>文章二级标题</h3>
+    <p>作者名:xxx发表时间:xxx</p><br>
+    <p>只是一个表格</p>
+    <table>
+    <tr>
+        <td>表头</td>
+        <td>表头</td>
+        <td>表头</td>
+    </tr>
+    <tr>
+        <td>单元格的内容</td>
+        <td>单元格的内容</td>
+        <td>操作</td>
+    </tr>
+    <tr>
+        <td>单元格的内容</td>
+        <td>单元格的内容</td>
+        <td>操作</td>
+    </tr>
+    <tr>
+        <td>单元格的内容</td>
+        <td>单元格的内容</td>
+        <td>操作</td>
+    </tr>
+    <tr>
+        <td>总计</td>
+        <td>100</td>
+    </tr>
+</table>
+<h2>注册窗口标题</h2>
+    <p>请输入你的邮箱地址 <input type = 'text'> </p>
+    <p>请输入你的用户名<input type = 'text'>请输入密码<input type = 'password'></p>
+    <p>密码为6-16个字符 性别<input type ='radio' name =男>男<input type ='radio' name =女>女 爱好<input type ='radio' name = 体育>体育<input type ='radio' name =音乐>音乐<input type ='radio' name =打游戏>打游戏<input type ='radio' name =敲代码>敲代码</p>
+    <p>请输入个人描述<textarea rows="4" cols="50"></textarea></p>
+</head>
+<body>
+    
+</body>
+</html>
