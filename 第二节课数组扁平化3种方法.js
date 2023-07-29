@@ -23,6 +23,12 @@ function flattenIterative(arr) {
   }
   return result;
 }
+function easiestSolving(arr)
+{
+
+let result = arr.flat(Infinity);
+console.log(result); // [1, 2, 3, 4, 5, 6, 7, 8]
+}
 
 const arr = [1, [2, [3, 4], 5], 6];
 console.log(flattenRecursive(arr)); // [1, 2, 3, 4, 5, 6]
